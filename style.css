@@ -33,7 +33,7 @@ header .nav-container{
     height: 100% ;
     max-width: 1248px;
     margin: 0 auto;
-    overflow-x: scroll;
+    overflow-x: auto;
 }
 
 header .nav-container .logo{
