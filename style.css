@@ -186,6 +186,10 @@ header .cart svg{
     font-weight: 500;
 }
 
+.section-1-item:hover{
+    color: #2874f0;
+}
+
 .section-1-item img{
     width: 64px;
     height: 64px;
